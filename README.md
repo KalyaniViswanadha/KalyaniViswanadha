@@ -2,12 +2,12 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif?cid=ecf05e47ywfce7dn034h7qrkrjowdtff5v76cijrl6wmbg1m&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="300"/>
 </div>
-<>
-<h1 align="left">Hi 👋, I'm Kalyani Viswanadha</h1>
+<hr>
+<h2 align="left">Hey Guys👋, It's Kalyani Viswanadha</h1>
 
-- 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m currently learning **Web Dev**
-- 📫 How to reach me **kalyanivisw@gmail.com**
+- 🔭 I’m currently working on **Data Science**
+- 🌱 I’m currently learning **SQL**
+- 📫 Got any suggestions, comments, compliments, reach me @**kalyanivisw@gmail.com**
 - ⚡ Fun fact **I'm vivacious !!**
 
 <h3 align="left">Connect with me:</h3>

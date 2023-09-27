@@ -1,4 +1,8 @@
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif?cid=ecf05e47ywfce7dn034h7qrkrjowdtff5v76cijrl6wmbg1m&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="300"/>
+</div>
+<>
 <h1 align="left">Hi 👋, I'm Kalyani Viswanadha</h1>
 
 - 🔭 I’m currently working on **Web Projects**

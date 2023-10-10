@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 - 🌱 I’m currently learning **SQL**
-- 📫 Got any suggestions, comments, compliments, reach me @**kalyanivisw@gmail.com**
+- 📫 Got any suggestions, comments, compliments, reach me **kalyanivisw@gmail.com**
 - ⚡ Fun fact **I'm vivacious !!**
 
 <h3 align="left">Connect with me:</h3>
